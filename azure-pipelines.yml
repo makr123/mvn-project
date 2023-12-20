@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: ubuntu-latest
+  vmImage: BLR1-LHP-N79020
 
 steps:
 - task: Maven@3
